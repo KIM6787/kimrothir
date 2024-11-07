@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4d03f ;
+    margin: 0;
+    padding: 0;
+}
+
+/* Styliser les paragraphes */
+p {
+    font-size: 16px;
+    line-height: 1.6;
+    color: #333;
+    margin: 20px;
+}
+
+/* Styliser le lien */
+a {
+    color: #0066cc;
+    text-decoration: none; 
+}
+
+a:hover {
+    color: #af7ac5; /* Changer la couleur quand on survole le lien */
+    text-decoration: underline; /* Ajouter un souligné au survol */
+}
