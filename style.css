@@ -1,3 +1,27 @@
+nav {
+    position: fixed;
+    top: 0;
+    right: 0;
+    padding: 10px;
+    z-index: 1000;
+  }
+  
+  nav a {
+    color: f8cbdb;
+    text-decoration: none;
+    margin-left: 10px;
+  }
+  
+  nav a:hover {
+    text-decoration: underline;
+  }
+  
+  
+  section {
+    margin-top: 60px;
+    padding: 20px;
+  }
+
 body {
     font-family: Arial, sans-serif;
     background-color: #f4d03f ;
